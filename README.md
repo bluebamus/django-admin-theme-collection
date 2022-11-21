@@ -1,2 +1,2 @@
-# django-theme-collection
-django-theme-collection
+# django-admin-theme-collection
+django-admin-theme-collection
