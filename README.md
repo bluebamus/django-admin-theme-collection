@@ -133,7 +133,7 @@ django-admin-theme-collection
             },
         }
         ```
-6. Django JET
+6. Django Suit
    - Looks like the last update was 3 years ago
    - Decided to ignore project testing
 7. django-baton :star: 
